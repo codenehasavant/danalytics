@@ -1,7 +1,7 @@
 
 
 # -------------------------------------------------------------------------
-#Author:    
+#Author:    Neha Savant
 #Dt:        02-12-2019
 #Objective: To Webscrape the Amazon Website against ASINs to fetch product details
 
@@ -30,7 +30,7 @@ setwd(path)
 # Read Inputs -------------------------------------------------------------
 market = read.csv("input/Market.csv") #Taken from https://en.wikipedia.org/wiki/Amazon_(company)
 #market = market[8,]
-list_of_ASIN = read.csv("input/List_of_ASIN-2.csv")
+list_of_ASIN = read.csv("input/List_of_ASIN.csv")
 names(list_of_ASIN) = c('ASIN')
 
 
