@@ -2,12 +2,12 @@
 --------------------------------READ ME file--------------------------------
 ----------------------------------------------------------------------------
 
-1. Save the zip and double click the Product Details.R file to open it in R-Studio
+1. Save all the files and double click the Product Details.R file to open it in R-Studio
 
 2. Edit path to the directory of R file (Line 27)
 	Use forward slashed path in case of windows and backward in case of iOS. 
 	
-3. Save the input and output folders as it is in the zip
+3. Create two folders within this directory - 'input' and 'output'
 
 4. The list of asin should be a csv file (not .xls or .xlsx) and placed in the 'input' folder
 	It should be named 'List_of_ASIN.csv'.
