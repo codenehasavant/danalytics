@@ -1,0 +1,18 @@
+Region,Country,Domain name,Market
+Asia,China,amazon.cn,cn
+Asia,India,amazon.in,in
+Asia,Japan,amazon.co.jp,jp
+Asia,Singapore,amazon.com.sg,sg
+Asia,Turkey,amazon.com.tr,tr
+Asia,United Arab Emirates,amazon.ae,ae
+Europe,France,amazon.fr,fr
+Europe,Germany,amazon.de,de
+Europe,Italy,amazon.it,it
+Europe,Netherlands,amazon.nl,nl
+Europe,Spain,amazon.es,es
+Europe,United Kingdom,amazon.co.uk,uk
+North America,Canada,amazon.ca,ca
+North America,Mexico,amazon.com.mx,mx
+North America,United States,amazon.com,om
+Oceania,Australia,amazon.com.au,au
+South America,Brazil,amazon.com.br,br
