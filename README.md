@@ -1,11 +1,1 @@
-# danalytics
-
-Hello visitor!
-Here's my small pit to git codes :)
-
-Please choose the branch above and view my work. 
-
-
-
-
-Suggestions are welcomes to improve my GIT page!
+The tableau insightboard can be seen here - https://public.tableau.com/profile/neha.savant#!/vizhome/BC_Dashboard/MarketingDashboard
