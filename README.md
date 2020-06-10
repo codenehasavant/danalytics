@@ -1,11 +1,5 @@
-# danalytics
+This tableau workbook is a representation of the total funding towards Analytics startups in the US vis-a-vis other countries in the last two decaded. 
 
-Hello visitor!
-Here's my small pit to git codes :)
+I have utilised the dark theme for a better aesthetic.
 
-Please choose the branch above and view my work. 
-
-
-
-
-Suggestions are welcomes to improve my GIT page!
+Share how you liked it. 
