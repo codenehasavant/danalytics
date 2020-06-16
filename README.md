@@ -1,11 +1,5 @@
-# danalytics
+The Global Mobility Dashboard - India Edition represents how mobility trends in India have changed since the Pandemic - pre lockdown and during the phases of lockdown across several categories. 
 
-Hello visitor!
-Here's my small pit to git codes :)
-
-Please choose the branch above and view my work. 
+Explore this report and share your thoughts. 
 
 
-
-
-Suggestions are welcomes to improve my GIT page!
